@@ -34,7 +34,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <t pos="V">do</t>
+        <t pos="V">to do</t>
       </tg>
     </mg>
   </e>
@@ -44,7 +44,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <t pos="V">show</t>
+        <t pos="V">to show</t>
       </tg>
     </mg>
   </e>
@@ -54,7 +54,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <t pos="V">carry boxlike object</t>
+        <t pos="V">to carry boxlike object</t>
       </tg>
     </mg>
   </e>
@@ -64,7 +64,7 @@ For the full license text, see the link above.</lic>
     </lg>
     <mg>
       <tg>
-        <t pos="V">carry animate</t>
+        <t pos="V">to carry animate</t>
       </tg>
     </mg>
   </e>
