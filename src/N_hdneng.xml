@@ -85,7 +85,59 @@
     </lg>
     <mg>
       <tg>
-        <t pos="N">blues SLOANS ;</t>
+        <t pos="N">blues</t>
+      </tg>
+    </mg>
+  </e>
+
+<!-- from the net -->
+  <e>
+    <lg>
+      <l pos="N">íihlangaa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">man</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">jáadaa</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">woman</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">juuyáay</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">sun</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">kúng</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">moon</t>
+      </tg>
+    </mg>
+  </e>
+  <e>
+    <lg>
+      <l pos="N">gántl</l>
+    </lg>
+    <mg>
+      <tg>
+        <t pos="N">water</t>
       </tg>
     </mg>
   </e>
