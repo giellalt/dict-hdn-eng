@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
-
 <!DOCTYPE r
   PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
-  
-<r>
+<r xml:lang="hdn">
    <lics>
       <lic xml:lang="en">
 This code is made available under a Creative Commons Attribution license
@@ -33,7 +31,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">isdä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">to do</t>
       </tg>
     </mg>
@@ -43,7 +41,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khindä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">to show</t>
       </tg>
     </mg>
@@ -53,7 +51,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">tsasgang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">to carry boxlike object</t>
       </tg>
     </mg>
@@ -63,7 +61,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dlagang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">to carry animate</t>
       </tg>
     </mg>
@@ -73,7 +71,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">hatsqasáa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to sneeze</t>
       </tg>
     </mg>
@@ -83,7 +81,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">táa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to eat O</t>
       </tg>
     </mg>
@@ -93,7 +91,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">íihlangaa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be male</t>
       </tg>
     </mg>
@@ -103,7 +101,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">tsqaslangáa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to have been boiled</t>
       </tg>
     </mg>
@@ -113,7 +111,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">isdáal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (pl) to go</t>
       </tg>
     </mg>
@@ -123,7 +121,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khíisaal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to fast</t>
       </tg>
     </mg>
@@ -133,7 +131,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khíidaal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to paddle O</t>
       </tg>
     </mg>
@@ -143,7 +141,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dlayáandaal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (sg) to run</t>
       </tg>
     </mg>
@@ -153,7 +151,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">íqwaan</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (sg) to be big</t>
       </tg>
     </mg>
@@ -163,7 +161,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khwáan</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be many</t>
       </tg>
     </mg>
@@ -173,7 +171,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqíinaan</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to iron O</t>
       </tg>
     </mg>
@@ -183,7 +181,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">sáandlaan</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for dawn to break</t>
       </tg>
     </mg>
@@ -193,7 +191,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dáang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to throw O away</t>
       </tg>
     </mg>
@@ -203,7 +201,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dlayáayng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be single, unmarried</t>
       </tg>
     </mg>
@@ -213,7 +211,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqíigaang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to tell a story</t>
       </tg>
     </mg>
@@ -223,7 +221,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">náang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to play</t>
       </tg>
     </mg>
@@ -233,7 +231,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">skáadaang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to pick berries</t>
       </tg>
     </mg>
@@ -243,7 +241,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dah</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to buy O</t>
       </tg>
     </mg>
@@ -253,7 +251,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">hltah</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to spit</t>
       </tg>
     </mg>
@@ -263,7 +261,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kqah</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to laugh</t>
       </tg>
     </mg>
@@ -273,7 +271,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">stqah</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be full</t>
       </tg>
     </mg>
@@ -283,7 +281,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kqi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be sharp</t>
       </tg>
     </mg>
@@ -293,7 +291,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">stqi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be sick</t>
       </tg>
     </mg>
@@ -303,7 +301,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">xhi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to saw O</t>
       </tg>
     </mg>
@@ -313,7 +311,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gíihliid</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for the tide to come in</t>
       </tg>
     </mg>
@@ -323,7 +321,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khehsíid</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to have their eyes open</t>
       </tg>
     </mg>
@@ -333,7 +331,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">stlqíid</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to pinch O</t>
       </tg>
     </mg>
@@ -343,7 +341,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">yahdqíid</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to start to believe O</t>
       </tg>
     </mg>
@@ -353,7 +351,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">ináahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to grow up</t>
       </tg>
     </mg>
@@ -363,7 +361,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">tláahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be ten in number</t>
       </tg>
     </mg>
@@ -373,7 +371,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">xyáahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to dance</t>
       </tg>
     </mg>
@@ -383,7 +381,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kusad</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to fart</t>
       </tg>
     </mg>
@@ -393,7 +391,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khíitsqad</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to watch over O</t>
       </tg>
     </mg>
@@ -403,7 +401,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqíisgad</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to forget O</t>
       </tg>
     </mg>
@@ -413,7 +411,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">sdasgad</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to kick O</t>
       </tg>
     </mg>
@@ -423,7 +421,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">tqapqad</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to snap</t>
       </tg>
     </mg>
@@ -433,7 +431,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dlán</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to wash O</t>
       </tg>
     </mg>
@@ -443,7 +441,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">hlkhqán</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to get tangled</t>
       </tg>
     </mg>
@@ -453,7 +451,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kqudlán</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to paint O</t>
       </tg>
     </mg>
@@ -463,7 +461,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kqwaqán</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (sg) to be short</t>
       </tg>
     </mg>
@@ -473,7 +471,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">chíigang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (male) to urinate</t>
       </tg>
     </mg>
@@ -483,7 +481,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gináng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to ask for O</t>
       </tg>
     </mg>
@@ -493,7 +491,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gudáng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to want X</t>
       </tg>
     </mg>
@@ -503,7 +501,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gháadang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to bathe</t>
       </tg>
     </mg>
@@ -513,7 +511,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kihlgadáng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to tell a lie</t>
       </tg>
     </mg>
@@ -523,7 +521,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kyáanang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to ask</t>
       </tg>
     </mg>
@@ -533,7 +531,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqáalang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to write O</t>
       </tg>
     </mg>
@@ -543,7 +541,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">stánsang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be four in number</t>
       </tg>
     </mg>
@@ -553,7 +551,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">duungéehl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to get closer</t>
       </tg>
     </mg>
@@ -563,7 +561,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">jáadqaneehl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to get married</t>
       </tg>
     </mg>
@@ -573,7 +571,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">dlawíi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to fall off of X</t>
       </tg>
     </mg>
@@ -583,7 +581,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">jadqadíi</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to cut O with scissors</t>
       </tg>
     </mg>
@@ -593,7 +591,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">ín</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to go and V</t>
       </tg>
     </mg>
@@ -603,7 +601,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">diyíng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to look for X</t>
       </tg>
     </mg>
@@ -613,7 +611,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqálud</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be moldy</t>
       </tg>
     </mg>
@@ -623,7 +621,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqud</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be hungry</t>
       </tg>
     </mg>
@@ -633,7 +631,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gudqgúng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to think about X</t>
       </tg>
     </mg>
@@ -643,7 +641,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">wahdqgúng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to bark repeatedly</t>
       </tg>
     </mg>
@@ -653,7 +651,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gúusuu</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to speak</t>
       </tg>
     </mg>
@@ -663,7 +661,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">híiluu</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to get all used up</t>
       </tg>
     </mg>
@@ -673,7 +671,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">ghadä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be white</t>
       </tg>
     </mg>
@@ -683,7 +681,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">sdahlä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to want X</t>
       </tg>
     </mg>
@@ -693,7 +691,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">daqä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to have O</t>
       </tg>
     </mg>
@@ -703,7 +701,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">kyaqä</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be named</t>
       </tg>
     </mg>
@@ -713,7 +711,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gínhlahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to mix O together</t>
       </tg>
     </mg>
@@ -723,7 +721,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">hlghúnahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to be three in number</t>
       </tg>
     </mg>
@@ -733,7 +731,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">ántqas</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to bow their head</t>
       </tg>
     </mg>
@@ -743,7 +741,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqíitqas</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to not know</t>
       </tg>
     </mg>
@@ -753,7 +751,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">níihl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to drink</t>
       </tg>
     </mg>
@@ -763,7 +761,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">sdíihl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to return</t>
       </tg>
     </mg>
@@ -773,7 +771,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">is</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S (sg) to go</t>
       </tg>
     </mg>
@@ -783,7 +781,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">gujgúuhl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">for S to put O on their head</t>
       </tg>
     </mg>
@@ -793,7 +791,7 @@ For the full license text, see the link above.</lic>
       <l pos="V">khqajúugang</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="V">to sing</t>
       </tg>
     </mg>

@@ -1,10 +1,37 @@
-<r>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../../scripts/gt_dictionary.css"?>
+<!DOCTYPE r
+  PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_dictionary.dtd">
+<r xml:lang="hdn">
+   <lics>
+      <lic xml:lang="en">
+This code is made available under a Creative Commons Attribution license
+<a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+
+You are free to copy, distribute and adapt the work, as long as you always give
+proper attribution using the attribution text below.
+
+For the full license text, see the link above.</lic>
+      <ref>Work by UAlberta, Edmonton, Giellatekno at UiT,
+          and members of the language communities. Source code
+          available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+      <sourcenote>
+     THIS TEXT IS THE ORIGINAL SOURCE CODE. This is NOT a fully styled and
+     published dictionary. As such it can and
+     will contain unfinished entries, unpublished entries, entries with
+     objectionable translations, etc. If you find any errors or want to add more
+     words, download the file, edit it, and send it back to
+     <a>mailto:giellatekno@hum.uit.no</a>.
+     Please also note that the entries are not necessarily sorted,
+     or could be wrongly sorted.
+     </sourcenote>
+   </lics>
   <e>
     <lg>
       <l pos="N">chiin</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">fish</t>
       </tg>
     </mg>
@@ -14,7 +41,7 @@
       <l pos="N">gataaw</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">fork</t>
       </tg>
     </mg>
@@ -24,7 +51,7 @@
       <l pos="N">xha</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">dog</t>
       </tg>
     </mg>
@@ -34,7 +61,7 @@
       <l pos="N">daalaa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">money</t>
       </tg>
     </mg>
@@ -44,7 +71,7 @@
       <l pos="N">duus</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">cat</t>
       </tg>
     </mg>
@@ -54,7 +81,7 @@
       <l pos="N">gwaahl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">bag</t>
       </tg>
     </mg>
@@ -64,7 +91,7 @@
       <l pos="N">sdlaagwaal</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">spoon</t>
       </tg>
     </mg>
@@ -74,7 +101,7 @@
       <l pos="N">gataadaan</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">table</t>
       </tg>
     </mg>
@@ -84,7 +111,7 @@
       <l pos="N">blues</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">blues</t>
       </tg>
     </mg>
@@ -96,7 +123,7 @@
       <l pos="N">íihlangaa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">man</t>
       </tg>
     </mg>
@@ -106,7 +133,7 @@
       <l pos="N">jáadaa</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">woman</t>
       </tg>
     </mg>
@@ -116,7 +143,7 @@
       <l pos="N">juuyáay</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">sun</t>
       </tg>
     </mg>
@@ -126,7 +153,7 @@
       <l pos="N">kúng</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">moon</t>
       </tg>
     </mg>
@@ -136,7 +163,7 @@
       <l pos="N">gántl</l>
     </lg>
     <mg>
-      <tg>
+      <tg xml:lang="eng">
         <t pos="N">water</t>
       </tg>
     </mg>
