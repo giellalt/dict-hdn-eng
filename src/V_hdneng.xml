@@ -17,4 +17,17 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
    </mg>
 </e>
 
+<e src="Lachler">
+   <lg>
+      <l pos="v">gatáa</l>
+      <lc>part</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="v">for S to have been left over (in measure amount), been left out</t>
+   </tg>
+   </mg>
+</e>
+
 </r>
+
