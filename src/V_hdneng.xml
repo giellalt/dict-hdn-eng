@@ -7,27 +7,482 @@ PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../scripts/gt_
 
 <e src="Lachler">
    <lg>
-      <l pos="v">ñ'awadáa</l>
-      <lc>part</lc>
+      <l pos="V">gatáa</l>
+      <lc>inc</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">for S to have been left over (in measure amount), been left out</t>
+       <t pos="V">for S to eat</t>
    </tg>
    </mg>
 </e>
 
 <e src="Lachler">
    <lg>
-      <l pos="v">gatáa</l>
-      <lc>part</lc>
+      <l pos="V">skyáahl</l>
+      <lc>v</lc>
    </lg>
    <mg>
    <tg xml:lang="eng">
-       <t pos="v">eat</t>
+       <t pos="V">for S to be lucky [said of a man or of hunting/fishing tools (but not a gun)]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">xadáal</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to go, come very very slowly (in direction) [said of a vehicle or the occupants of a vehicle]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñ'íinaan</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to press, iron O</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñínyaang</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S (sg) to hang on to X heavily, to lean on X heavily</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">sánaaw</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S (pl) to sniff at X</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">jadahlgwáay</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to shoot a hole in C (sg)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">sçalad</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to hide O away quickly (in direction)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">dah</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to trade for, buy O (in measure amount) (with X1) (for X2) in a single transaction</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">áljahl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to try their best on X</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">sçál</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to hide O, keep O secret</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">chíigang</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to urinate, pee (in direction)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">dlán</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to wash O, rinse O</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">dándas</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to pull C (pl) apart, split C (p) open by pulling on them</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñíiya</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to find, discover O (sg)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">sçáw</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to pay (X) for O</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">káa.ayd</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to pick O (sg) {káa} up, to pick O {sg) {káa} up and take off with it (in direction), to carry O (sg) {káa} off, to take O (sg) {káa} away</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñáy</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to thread, string O [said of fish, beads, but not a needle]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">xál ñáat'e.ehl</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to boil over [said of the contents of a pot]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñe.e</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to examine, check over, appraise O</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">náanee</l>
+      <lc>dv</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to use the word náanaa [said of small children only]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">gayéed</l>
+      <lc>vce</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">to V accidentally, to happen to V</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">hltanée.eehl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to thaw out</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">st'i</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to hurt, be sick, be sore</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">kúnid</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to pick O (sg) {kún} up, to pick O {sg) {kún} up and take off with it (in direction), to carry O (sg) {kún} off, to take O (sg) {kún} away</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">hlgihl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to spin or twist O together (with X1) (into X2)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">gisíid</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to yak (about X2)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">níihl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to drink O (from, out of X) [said of liquids or containers]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">çíihlgii</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to be ready, completed</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñíng</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to see, look at, watch (in location) (in direction)</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">kyáambda ín</l>
+      <lc>vphr</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to go to set up camp in location</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">kíl is</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to tell C to stay in location</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">tla çu</l>
+      <lc>vcpd</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to burn C [but not completely]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">díigud</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to bum food</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñáaguhl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to defecate</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ñ'usägúng</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to bum food</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">ta kún</l>
+      <lc>inc</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for X to get, find, come across, receive a large amount of food</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">kus</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to stab O [said of stabbing a person, not a body part]</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">t'ahlgúuhl</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to put or wrap O around their shoulders</t>
+   </tg>
+   </mg>
+</e>
+
+<e src="Lachler">
+   <lg>
+      <l pos="V">k'ajúu</l>
+      <lc>v</lc>
+   </lg>
+   <mg>
+   <tg xml:lang="eng">
+       <t pos="V">for S to sing (X), play (X)</t>
    </tg>
    </mg>
 </e>
 
 </r>
-
